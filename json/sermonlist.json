@@ -1,0 +1,28 @@
+{
+    "sermons": [
+        {
+            "date": "15",
+            "month": "April",
+            "hour": "06",
+            "minute": "30",
+            "amorpm": "AM",
+            "url": "www.example.com/stream1"
+        },
+        {
+            "date": "17",
+            "month": "April",
+            "hour": "07",
+            "minute": "45",
+            "amorpm": "PM",
+            "url": "www.example.com/stream2"
+        },
+        {
+            "date": "20",
+            "month": "April",
+            "hour": "09",
+            "minute": "15",
+            "amorpm": "AM",
+            "url": "www.example.com/stream3"
+        }
+    ]
+}
